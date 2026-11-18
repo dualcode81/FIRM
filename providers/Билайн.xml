@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CellProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Id>3</Id><Name>Билайн</Name><IconFile>provider.beeline.ru.ico</IconFile><Ussd>*102#</Ussd><Login>beeline</Login><Pass>beeline</Pass><Apn>internet.beeline.ru</Apn><UssdSelfNumber>*110*10#</UssdSelfNumber></CellProvider>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CellProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Id>5</Id><Name>Теле2</Name><IconFile>provider.tele2.ru.ico</IconFile><Ussd>*105#</Ussd><Login /><Pass /><Apn>internet.tele2.ru</Apn><UssdSelfNumber>*201#</UssdSelfNumber></CellProvider>

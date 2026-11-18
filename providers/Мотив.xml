@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CellProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Id>6</Id><Name>Мотив</Name><IconFile>provider.motiv.ru.ico</IconFile><Ussd>*102#</Ussd><Login>motiv</Login><Pass>motiv</Pass><Apn>inet.ycc.ru</Apn><UssdSelfNumber>*104*28#</UssdSelfNumber></CellProvider>

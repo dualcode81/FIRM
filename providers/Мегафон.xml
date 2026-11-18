@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CellProvider xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Id>4</Id><Name>Мегафон</Name><IconFile>provider.megafon.ru.ico</IconFile><Ussd>*100#</Ussd><Login>gdata</Login><Pass>gdata</Pass><Apn>internet</Apn><UssdSelfNumber>*205#</UssdSelfNumber></CellProvider>
